@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912148781889",
+    "project_id": "c-5555b",
+    "storage_bucket": "c-5555b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912148781889:android:1bd5ae091fc87c3c3cdfc0",
+        "android_client_info": {
+          "package_name": "com.example.AmazonC"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUGgOR1x0M384FVgX9ihhii_7-KJggKFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
